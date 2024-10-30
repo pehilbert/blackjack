@@ -22,6 +22,9 @@ class Hand:
             return HandTotal(total + 10, total + 10 != 21)
 
         return HandTotal(total, False)
+    
+    def is_blackjack(self):
+        return self.get_total().get_value() == 21 and len(self.get_cards()) == 2
 
     def busted(self):
         return self.get_total().get_value() > 21
@@ -47,6 +50,8 @@ class Hand:
 
                 if self.get_total().get_value() == 21:
                     print(self.owner, "has 21!")
+            else:
+                print(self)
 
             if self.busted() or self.get_total().get_value() == 21:
                 self.playing = False
@@ -110,7 +115,8 @@ class DealerHand(Hand):
 
         if self.verbose:
             print(self.owner, "flips")
-            print(self)
+
+        print(self)
 
         while self.playing and self.__should_hit():
             self.hit()
