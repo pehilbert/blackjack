@@ -35,6 +35,7 @@ class BlackjackGame:
 
         while i < len(self.player_hands):
             hand = self.player_hands[i]
+            hand.playing = True
             split = False
 
             if len(self.player_hands) > 1:
@@ -64,8 +65,6 @@ class BlackjackGame:
 
                 elif next_action.upper() == "SPLIT" and hand.can_split():
                     new_hands = hand.split()
-                    new_hands[0].playing = True
-                    new_hands[1].playing = True
 
                     self.player_hands.pop(i)
                     self.player_hands.insert(i, new_hands[1])
