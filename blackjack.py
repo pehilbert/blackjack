@@ -6,8 +6,8 @@ class BlackjackGame:
         self.verbose = verbose
         self.chips = initial_chips
 
-    def play(self, chips):
-        if self.chips - chips < 0:
+    def play(self, bet):
+        if self.chips - bet < 0:
             print("You don't have enough chips!")
             return
 
@@ -15,7 +15,7 @@ class BlackjackGame:
         self.deck = Deck(standard=True)
 
         # Initialize player and dealer hands
-        self.player_hands = [PlayerHand(self.deck, chips, self.verbose)]
+        self.player_hands = [PlayerHand(self.deck, bet, self.verbose)]
         self.dealer = DealerHand(self.deck, self.verbose)
 
         # Deal hands
