@@ -74,6 +74,9 @@ class PlayerHand(Hand):
         super().__init__(deck, "Player", verbose)
         self.bet = initial_bet
 
+    def play_player(self):
+        self.playing = not self.is_blackjack()
+
     def double_down(self):
         if self.playing:
             if self.verbose:

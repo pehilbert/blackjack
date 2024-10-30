@@ -35,7 +35,7 @@ class BlackjackGame:
 
         while i < len(self.player_hands):
             hand = self.player_hands[i]
-            hand.playing = True
+            hand.play_player()
             split = False
 
             if len(self.player_hands) > 1:
