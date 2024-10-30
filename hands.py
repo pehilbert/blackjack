@@ -121,6 +121,8 @@ class DealerHand(Hand):
         while self.playing and self.__should_hit():
             self.hit()
 
+        self.playing = False
+
     def __should_hit(self):
         return self.get_total().get_value() < 17 or self.get_total().get_soft()
     
