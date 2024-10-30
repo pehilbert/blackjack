@@ -99,7 +99,7 @@ class BlackjackGame:
                 win_amount = int(hand.bet * 1.5)
 
             # didn't bust and player had higher total -> win
-            if (self.dealer.busted() and not hand.busted()) or (not hand.busted() and player_total > dealer_total):
+            elif (self.dealer.busted() and not hand.busted()) or (not hand.busted() and player_total > dealer_total):
                 print("Win, ", end="")
                 win_amount = hand.bet
 
