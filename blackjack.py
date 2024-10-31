@@ -1,6 +1,8 @@
 from cards import *
 from hands import *
 
+DIVIDER_SIZE = 30
+
 class BlackjackGame:
     def __init__(self, initial_chips, verbose=False):
         self.verbose = verbose
@@ -15,8 +17,8 @@ class BlackjackGame:
         self.deck = Deck(standard=True)
 
         # Initialize player and dealer hands
-        self.player_hands = [PlayerHand(self.deck, bet, self.verbose)]
-        self.dealer = DealerHand(self.deck, self.verbose)
+        self.player_hands = [PlayerHand(self, bet, self.verbose)]
+        self.dealer = DealerHand(self, self.verbose)
 
         # Deal hands
         for _ in range(2):
@@ -25,63 +27,18 @@ class BlackjackGame:
 
         self.player_hands[0].playing = True
 
-        if self.verbose:
-            print("\n==================")
-            print("    Start game    ")
-            print("==================\n")
+        print()
+        print("-" * DIVIDER_SIZE)
 
         ## Player Turn ##
-        i = 0
-
-        while i < len(self.player_hands):
-            hand = self.player_hands[i]
-            hand.play_player()
-            split = False
-
-            if len(self.player_hands) > 1:
-                print(f"\nPlaying hand #{i + 1}:")
-
-            print(self.dealer)
-            print(self.player_hands[i])
-            print()
-
-            while hand.playing:
-                prompt = "What to do? (STAND, HIT, DOUBLE) "
-
-                if hand.can_split():
-                    prompt = "What to do? (STAND, HIT, DOUBLE, SPLIT) "
-
-                next_action = input(prompt).strip()
-                
-                if next_action.upper() == "STAND":
-                    hand.stand()
-                elif next_action.upper() == "HIT":
-                    hand.hit()
-                elif next_action.upper() == "DOUBLE":
-                    if self.chips >= hand.bet * 2:
-                        hand.double_down()
-                    else:
-                        print("You do not have enough chips to double down")
-
-                elif next_action.upper() == "SPLIT" and hand.can_split():
-                    new_hands = hand.split()
-
-                    self.player_hands.pop(i)
-                    self.player_hands.insert(i, new_hands[1])
-                    self.player_hands.insert(i, new_hands[0])
-
-                    split = True
-                else:
-                    print("Invalid command, try again")
-
-            if not split:
-                i += 1
+        print()
+        self.player_hands[0].play_player()
 
         ## Dealer Turn ##
         print()
         self.dealer.play_dealer()
-        print()
 
+        ## Game results ##
         dealer_total = self.dealer.get_total().get_value()
         winnings = 0
 
@@ -90,12 +47,14 @@ class BlackjackGame:
             player_total = hand.get_total().get_value()
             win_amount = 0
 
+            print()
+
             if len(self.player_hands) > 1:
                 print(f"Hand #{i + 1}: ", end="")
 
             # check for blackjack
-            if (hand.is_blackjack()):
-                print("Blackjack! ", end="")
+            if (hand.is_blackjack() and player_total != dealer_total):
+                print("Blackjack, ", end="")
                 win_amount = int(hand.bet * 1.5)
 
             # didn't bust and player had higher total -> win
@@ -121,5 +80,8 @@ class BlackjackGame:
                 print(str(win_amount))
 
             winnings += win_amount
+
+        print()
+        print("-" * DIVIDER_SIZE)
 
         self.chips += winnings
