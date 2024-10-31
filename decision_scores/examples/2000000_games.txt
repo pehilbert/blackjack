@@ -1,0 +1,342 @@
+Final scores from 2000000 games:
+
+Dealer 1, Player 13  -> {'HIT': -3679.0, 'STAND': -3130.5, 'DOUBLE': -2764.5}
+Dealer 1, Player 14  -> {'DOUBLE': -2704.0, 'STAND': -2904.0, 'HIT': -3569.5}
+Dealer 1, Player 16  -> {'STAND': -2578.5, 'HIT': -3518.5, 'DOUBLE': -2827.5}
+Dealer 1, Player 15  -> {'STAND': -2950.0, 'HIT': -3843.5, 'DOUBLE': -3091.0}
+Dealer 1, Player 12  -> {'STAND': -3052.0, 'DOUBLE': -2857.0, 'HIT': -3467.0}
+Dealer 1, Player 20 (Splittable)  -> {'SPLIT': -3781.5, 'DOUBLE': -3935.5, 'STAND': 678.0, 'HIT': -3990.0}
+Dealer 1, Player 7/17  -> {'STAND': -236.0, 'HIT': -272.0, 'DOUBLE': -184.0}
+Dealer 1, Player 10  -> {'HIT': -1126.0, 'DOUBLE': -370.5, 'STAND': -1291.0}
+Dealer 1, Player 20  -> {'DOUBLE': -1312.0, 'STAND': 114.5, 'HIT': -1288.5}
+Dealer 1, Player 17  -> {'STAND': -2039.5, 'HIT': -3598.5, 'DOUBLE': -3009.0}
+Dealer 1, Player 8  -> {'HIT': -813.0, 'DOUBLE': -618.0, 'STAND': -837.0}
+Dealer 1, Player 18  -> {'HIT': -3353.0, 'DOUBLE': -3106.5, 'STAND': -1019.0}
+Dealer 1, Player 9  -> {'HIT': -1187.5, 'STAND': -1217.0, 'DOUBLE': -640.0}
+Dealer 1, Player 19  -> {'DOUBLE': -3553.0, 'HIT': -3662.0, 'STAND': -305.0}
+Dealer 1, Player 8 (Splittable)  -> {'HIT': -96.0, 'STAND': -102, 'DOUBLE': -89.5, 'SPLIT': -316.0}
+Dealer 1, Player 4/14  -> {'STAND': -259, 'DOUBLE': -182.5, 'HIT': -191.0}
+Dealer 1, Player 11  -> {'DOUBLE': -75.5, 'HIT': -491.0, 'STAND': -1605.0}
+Dealer 1, Player 9/19  -> {'STAND': -59.0, 'HIT': -269.0, 'DOUBLE': -147.5}
+Dealer 1, Player 5/15  -> {'DOUBLE': -204.5, 'STAND': -287, 'HIT': -212.5}
+Dealer 1, Player 7  -> {'DOUBLE': -686.0, 'STAND': -752.5, 'HIT': -770.5}
+Dealer 1, Player 6/16  -> {'STAND': -298.5, 'DOUBLE': -144.0, 'HIT': -242.0}
+Dealer 1, Player 5  -> {'STAND': -358, 'DOUBLE': -379.5, 'HIT': -392.5}
+Dealer 1, Player 4 (Splittable)  -> {'STAND': -120, 'DOUBLE': -136, 'SPLIT': -281.0, 'HIT': -90.0}
+Dealer 1, Player 10 (Splittable)  -> {'HIT': -88.0, 'SPLIT': -302.5, 'DOUBLE': -42.0, 'STAND': -101}
+Dealer 1, Player 18 (Splittable)  -> {'HIT': -164.0, 'SPLIT': -220.5, 'STAND': -47.5, 'DOUBLE': -127.0}
+Dealer 1, Player 6  -> {'HIT': -388.5, 'DOUBLE': -396.5, 'STAND': -377.5}
+Dealer 1, Player 8/18  -> {'DOUBLE': -200.0, 'STAND': -169.0, 'HIT': -297.0}
+Dealer 1, Player 3/13  -> {'STAND': -292.5, 'DOUBLE': -145.0, 'HIT': -162.5}
+Dealer 1, Player 12 (Splittable)  -> {'DOUBLE': -107.5, 'SPLIT': -299.5, 'STAND': -95, 'HIT': -110.5}
+Dealer 1, Player 16 (Splittable)  -> {'DOUBLE': -115.5, 'HIT': -129.0, 'SPLIT': -305.0, 'STAND': -121}
+Dealer 1, Player 2/12 (Splittable)  -> {'STAND': -54, 'HIT': -41.5, 'SPLIT': -114.0, 'DOUBLE': -42.0}
+Dealer 1, Player 10/20  -> {'DOUBLE': -118.0, 'HIT': -363.5, 'STAND': 74.5}
+Dealer 1, Player 14 (Splittable)  -> {'DOUBLE': -100.5, 'SPLIT': -377.5, 'STAND': -134, 'HIT': -133.0}
+Dealer 1, Player 6 (Splittable)  -> {'HIT': -94.0, 'DOUBLE': -97.5, 'SPLIT': -313.5, 'STAND': -112.5}
+Dealer 2, Player 12  -> {'STAND': -1259.0, 'HIT': -2264.5, 'DOUBLE': -1033.5}
+Dealer 2, Player 16  -> {'STAND': -1065.0, 'DOUBLE': -1912.0, 'HIT': -2754.0}
+Dealer 2, Player 13  -> {'STAND': -1351.0, 'DOUBLE': -1474.0, 'HIT': -2815.5}
+Dealer 2, Player 14  -> {'DOUBLE': -1484.5, 'HIT': -2675.5, 'STAND': -1245.5}
+Dealer 2, Player 16 (Splittable)  -> {'STAND': -33, 'SPLIT': -142.0, 'HIT': -106.0, 'DOUBLE': -84.5}
+Dealer 2, Player 18  -> {'HIT': -3077.5, 'DOUBLE': -2453.0, 'STAND': 857.5}
+Dealer 2, Player 8  -> {'DOUBLE': 43.0, 'HIT': -403.5, 'STAND': -316.5}
+Dealer 2, Player 8/18  -> {'STAND': 149.5, 'DOUBLE': 85.0, 'HIT': -223.0}
+Dealer 2, Player 9  -> {'HIT': -648.5, 'DOUBLE': 218.5, 'STAND': -445.5}
+Dealer 2, Player 19  -> {'DOUBLE': -3054.5, 'STAND': 2038.0, 'HIT': -3281.5}
+Dealer 2, Player 11  -> {'DOUBLE': 800.5, 'HIT': 62.5, 'STAND': -659.5}
+Dealer 2, Player 7/17  -> {'HIT': -187.5, 'DOUBLE': 59.5, 'STAND': -82.0}
+Dealer 2, Player 17  -> {'DOUBLE': -2454.0, 'STAND': -206.0, 'HIT': -3219.0}
+Dealer 2, Player 15  -> {'DOUBLE': -2015.5, 'STAND': -1232.0, 'HIT': -3111.5}
+Dealer 2, Player 6  -> {'STAND': -121, 'DOUBLE': -164.0, 'HIT': -168.0}
+Dealer 2, Player 10  -> {'HIT': -524.5, 'DOUBLE': 407.0, 'STAND': -516.0}
+Dealer 2, Player 20 (Splittable)  -> {'HIT': -3283.5, 'STAND': 3179.0, 'SPLIT': 199.0, 'DOUBLE': -3174.0}
+Dealer 2, Player 5/15  -> {'HIT': -116.0, 'STAND': -206.5, 'DOUBLE': -9.5}
+Dealer 2, Player 9/19  -> {'DOUBLE': 129.5, 'STAND': 384.0, 'HIT': -174.0}
+Dealer 2, Player 5  -> {'DOUBLE': -115, 'STAND': -131, 'HIT': -128.0}
+Dealer 2, Player 4/14  -> {'HIT': -44.0, 'STAND': -191, 'DOUBLE': -27.0}
+Dealer 2, Player 20  -> {'STAND': 989.0, 'DOUBLE': -1072.5, 'HIT': -1171.0}
+Dealer 2, Player 14 (Splittable)  -> {'DOUBLE': -47.5, 'SPLIT': -172.0, 'STAND': -48, 'HIT': -112.0}
+Dealer 2, Player 10/20  -> {'STAND': 614.5, 'HIT': -254.0, 'DOUBLE': 202.5}
+Dealer 2, Player 18 (Splittable)  -> {'DOUBLE': -114.0, 'HIT': -151.5, 'STAND': 33.0, 'SPLIT': -42.0}
+Dealer 2, Player 7  -> {'HIT': -415.0, 'STAND': -308.0, 'DOUBLE': -168.5}
+Dealer 2, Player 6/16  -> {'STAND': -173, 'HIT': -152.5, 'DOUBLE': -36.5}
+Dealer 2, Player 12 (Splittable)  -> {'DOUBLE': -26.5, 'STAND': -32.5, 'HIT': -102.0, 'SPLIT': -113.5}
+Dealer 2, Player 6 (Splittable)  -> {'STAND': -46, 'HIT': -64.5, 'DOUBLE': -53.0, 'SPLIT': -145.5}
+Dealer 2, Player 2/12 (Splittable)  -> {'DOUBLE': -2.0, 'STAND': -37, 'HIT': -21.5, 'SPLIT': -66.0}
+Dealer 2, Player 8 (Splittable)  -> {'SPLIT': -149.5, 'HIT': -48.0, 'STAND': -51, 'DOUBLE': -11.0}
+Dealer 2, Player 3/13  -> {'DOUBLE': -3.5, 'HIT': -91.0, 'STAND': -132.5}
+Dealer 2, Player 4 (Splittable)  -> {'STAND': -10.5, 'HIT': -25.5, 'SPLIT': -68.5, 'DOUBLE': -33.5}
+Dealer 2, Player 10 (Splittable)  -> {'HIT': -57.5, 'STAND': -33, 'DOUBLE': 44.0, 'SPLIT': -66.0}
+Dealer 3, Player 7/17  -> {'HIT': -129.0, 'STAND': -25.5, 'DOUBLE': 105.5}
+Dealer 3, Player 15  -> {'DOUBLE': -2022.0, 'STAND': -1058.0, 'HIT': -3050.5}
+Dealer 3, Player 13  -> {'DOUBLE': -1233.5, 'STAND': -933.5, 'HIT': -2410.5}
+Dealer 3, Player 11  -> {'HIT': 157.5, 'DOUBLE': 873.5, 'STAND': -495.0}
+Dealer 3, Player 12  -> {'STAND': -1026.5, 'HIT': -2302.5, 'DOUBLE': -807.5}
+Dealer 3, Player 17  -> {'STAND': -125.0, 'HIT': -2931.5, 'DOUBLE': -2398.5}
+Dealer 3, Player 8/18  -> {'STAND': 187.0, 'HIT': -168.5, 'DOUBLE': 128.5}
+Dealer 3, Player 5  -> {'DOUBLE': -114, 'STAND': -104.5, 'HIT': -144.5}
+Dealer 3, Player 19  -> {'STAND': 1983.0, 'DOUBLE': -2656.0, 'HIT': -3255.0}
+Dealer 3, Player 12 (Splittable)  -> {'DOUBLE': -47.5, 'SPLIT': -93.0, 'HIT': -52.5, 'STAND': -32}
+Dealer 3, Player 16 (Splittable)  -> {'STAND': -41, 'SPLIT': -145.0, 'DOUBLE': -75.0, 'HIT': -104.0}
+Dealer 3, Player 16  -> {'HIT': -2886.5, 'DOUBLE': -1966.5, 'STAND': -801.5}
+Dealer 3, Player 18  -> {'DOUBLE': -2411.5, 'HIT': -3133.0, 'STAND': 986.5}
+Dealer 3, Player 14  -> {'DOUBLE': -1460.5, 'STAND': -967.5, 'HIT': -2682.5}
+Dealer 3, Player 7  -> {'STAND': -242.0, 'HIT': -367.5, 'DOUBLE': -219.0}
+Dealer 3, Player 8  -> {'STAND': -241.5, 'HIT': -380.0, 'DOUBLE': 1.0}
+Dealer 3, Player 20  -> {'STAND': 1035.5, 'DOUBLE': -1082.5, 'HIT': -1019.5}
+Dealer 3, Player 20 (Splittable)  -> {'SPLIT': 695.0, 'DOUBLE': -3290.5, 'STAND': 3296.0, 'HIT': -3416.5}
+Dealer 3, Player 10/20  -> {'STAND': 591.5, 'DOUBLE': 254.5, 'HIT': -204.0}
+Dealer 3, Player 10  -> {'STAND': -343.5, 'HIT': -498.5, 'DOUBLE': 591.5}
+Dealer 3, Player 9  -> {'HIT': -581.0, 'STAND': -405.0, 'DOUBLE': 303.5}
+Dealer 3, Player 9/19  -> {'HIT': -179.5, 'STAND': 413.5, 'DOUBLE': 202.5}
+Dealer 3, Player 5/15  -> {'DOUBLE': -1.0, 'STAND': -160.5, 'HIT': -72.0}
+Dealer 3, Player 18 (Splittable)  -> {'HIT': -134.0, 'DOUBLE': -127.5, 'STAND': 38.0, 'SPLIT': -74.0}
+Dealer 3, Player 8 (Splittable)  -> {'STAND': -40, 'SPLIT': -104.5, 'HIT': -40.5, 'DOUBLE': 7.0}
+Dealer 3, Player 6  -> {'DOUBLE': -120.0, 'HIT': -207.0, 'STAND': -128}
+Dealer 3, Player 6/16  -> {'HIT': -126.5, 'DOUBLE': 27.5, 'STAND': -125.5}
+Dealer 3, Player 4/14  -> {'STAND': -104.0, 'DOUBLE': -10.5, 'HIT': -18.5}
+Dealer 3, Player 3/13  -> {'HIT': -29.5, 'DOUBLE': 47.0, 'STAND': -135.5}
+Dealer 3, Player 4 (Splittable)  -> {'DOUBLE': -43, 'HIT': -54.5, 'SPLIT': -88.5, 'STAND': -39}
+Dealer 3, Player 2/12 (Splittable)  -> {'STAND': -55, 'SPLIT': 0.0, 'HIT': 8.0, 'DOUBLE': 4.5}
+Dealer 3, Player 10 (Splittable)  -> {'DOUBLE': 61.0, 'HIT': -39.5, 'STAND': -49, 'SPLIT': -109.5}
+Dealer 3, Player 14 (Splittable)  -> {'HIT': -113.5, 'SPLIT': -171.0, 'STAND': -54, 'DOUBLE': -33.5}
+Dealer 3, Player 6 (Splittable)  -> {'DOUBLE': -15.5, 'HIT': -32.5, 'STAND': -25, 'SPLIT': -48.0}
+Dealer 4, Player 16  -> {'STAND': -541.0, 'DOUBLE': -2010.0, 'HIT': -2707.0}
+Dealer 4, Player 11  -> {'STAND': -336.0, 'HIT': 97.5, 'DOUBLE': 863.5}
+Dealer 4, Player 7  -> {'DOUBLE': -62.0, 'STAND': -102, 'HIT': -292.0}
+Dealer 4, Player 3/13  -> {'STAND': -128.5, 'HIT': -24.0, 'DOUBLE': 106.0}
+Dealer 4, Player 12  -> {'STAND': -792.0, 'HIT': -2294.0, 'DOUBLE': -734.0}
+Dealer 4, Player 18  -> {'STAND': 1217.0, 'DOUBLE': -2227.5, 'HIT': -2947.5}
+Dealer 4, Player 17  -> {'HIT': -3213.5, 'STAND': 284.0, 'DOUBLE': -2349.5}
+Dealer 4, Player 20  -> {'DOUBLE': -1141.0, 'STAND': 998.5, 'HIT': -1091.5}
+Dealer 4, Player 6/16  -> {'STAND': -151.0, 'DOUBLE': 79.0, 'HIT': -105.5}
+Dealer 4, Player 13  -> {'STAND': -920.5, 'HIT': -2608.0, 'DOUBLE': -1144.5}
+Dealer 4, Player 8 (Splittable)  -> {'STAND': -4, 'HIT': -23.5, 'SPLIT': -37.0, 'DOUBLE': -4.5}
+Dealer 4, Player 10  -> {'HIT': -427.0, 'DOUBLE': 579.5, 'STAND': -301.5}
+Dealer 4, Player 15  -> {'STAND': -794.5, 'DOUBLE': -1821.0, 'HIT': -3018.5}
+Dealer 4, Player 20 (Splittable)  -> {'DOUBLE': -3321.0, 'STAND': 3118.0, 'SPLIT': 778.5, 'HIT': -3396.5}
+Dealer 4, Player 14  -> {'DOUBLE': -1170.0, 'STAND': -518.0, 'HIT': -2284.0}
+Dealer 4, Player 8  -> {'DOUBLE': 140.5, 'STAND': -236, 'HIT': -409.0}
+Dealer 4, Player 8/18  -> {'HIT': -166.0, 'DOUBLE': 128.5, 'STAND': 229.5}
+Dealer 4, Player 9/19  -> {'HIT': -263.0, 'STAND': 389.5, 'DOUBLE': 173.5}
+Dealer 4, Player 19  -> {'HIT': -3115.5, 'DOUBLE': -2760.0, 'STAND': 2108.0}
+Dealer 4, Player 10 (Splittable)  -> {'SPLIT': -85.5, 'STAND': -42, 'HIT': -45.5, 'DOUBLE': 68.0}
+Dealer 4, Player 7/17  -> {'HIT': -174.0, 'DOUBLE': 52.0, 'STAND': -1.5}
+Dealer 4, Player 9  -> {'DOUBLE': 314.0, 'STAND': -288.0, 'HIT': -514.0}
+Dealer 4, Player 10/20  -> {'HIT': -247.5, 'STAND': 618.0, 'DOUBLE': 237.5}
+Dealer 4, Player 14 (Splittable)  -> {'DOUBLE': -71.0, 'HIT': -149.5, 'SPLIT': -95.0, 'STAND': -28}
+Dealer 4, Player 4/14  -> {'HIT': -34.0, 'STAND': -93.0, 'DOUBLE': 74.5}
+Dealer 4, Player 5  -> {'HIT': -145.0, 'DOUBLE': -126.5, 'STAND': -145}
+Dealer 4, Player 5/15  -> {'STAND': -73, 'HIT': -74.0, 'DOUBLE': 52.5}
+Dealer 4, Player 4 (Splittable)  -> {'DOUBLE': -44, 'STAND': -21, 'SPLIT': -108.0, 'HIT': -28.0}
+Dealer 4, Player 2/12 (Splittable)  -> {'STAND': -48, 'DOUBLE': 25.5, 'HIT': 9.5, 'SPLIT': 10.5}
+Dealer 4, Player 16 (Splittable)  -> {'HIT': -129.5, 'SPLIT': -90.5, 'STAND': -29.5, 'DOUBLE': -77.0}
+Dealer 4, Player 12 (Splittable)  -> {'DOUBLE': -19.0, 'SPLIT': -76.0, 'STAND': -19, 'HIT': -94.0}
+Dealer 4, Player 6  -> {'DOUBLE': -91.5, 'HIT': -126.0, 'STAND': -79}
+Dealer 4, Player 18 (Splittable)  -> {'SPLIT': -35.5, 'DOUBLE': -100.0, 'STAND': 21.5, 'HIT': -113.0}
+Dealer 4, Player 6 (Splittable)  -> {'DOUBLE': -40, 'SPLIT': -79.5, 'HIT': -90.5, 'STAND': -41}
+Dealer 5, Player 7  -> {'DOUBLE': 18.0, 'HIT': -234.0, 'STAND': -54.0}
+Dealer 5, Player 11  -> {'STAND': -301.0, 'DOUBLE': 1183.5, 'HIT': 246.0}
+Dealer 5, Player 19  -> {'STAND': 2235.5, 'HIT': -3122.0, 'DOUBLE': -2713.5}
+Dealer 5, Player 20 (Splittable)  -> {'STAND': 3425.5, 'DOUBLE': -3125.0, 'SPLIT': 1499.5, 'HIT': -3176.5}
+Dealer 5, Player 16  -> {'DOUBLE': -1827.5, 'HIT': -2899.0, 'STAND': -525.0}
+Dealer 5, Player 18  -> {'STAND': 1456.0, 'HIT': -2816.5, 'DOUBLE': -2094.0}
+Dealer 5, Player 12  -> {'DOUBLE': -596.0, 'STAND': -370.0, 'HIT': -2201.0}
+Dealer 5, Player 14 (Splittable)  -> {'STAND': -39, 'HIT': -122.5, 'DOUBLE': -65.5, 'SPLIT': -149.5}
+Dealer 5, Player 17  -> {'HIT': -2977.5, 'STAND': 379.0, 'DOUBLE': -2113.0}
+Dealer 5, Player 13  -> {'HIT': -2527.0, 'DOUBLE': -1072.0, 'STAND': -593.0}
+Dealer 5, Player 15  -> {'DOUBLE': -1454.0, 'HIT': -2454.5, 'STAND': -513.5}
+Dealer 5, Player 8 (Splittable)  -> {'HIT': -35.5, 'STAND': 0, 'SPLIT': -132.0, 'DOUBLE': 45.0}
+Dealer 5, Player 14  -> {'HIT': -2477.0, 'STAND': -351.0, 'DOUBLE': -1266.5}
+Dealer 5, Player 8  -> {'STAND': -150.0, 'DOUBLE': 179.0, 'HIT': -254.5}
+Dealer 5, Player 6/16  -> {'STAND': -56.5, 'HIT': -101.0, 'DOUBLE': 50.0}
+Dealer 5, Player 2/12 (Splittable)  -> {'STAND': -14, 'HIT': -11.0, 'DOUBLE': 14.5, 'SPLIT': -17.0}
+Dealer 5, Player 9  -> {'HIT': -491.5, 'STAND': -182.0, 'DOUBLE': 391.5}
+Dealer 5, Player 3/13  -> {'HIT': -6.5, 'STAND': -117.5, 'DOUBLE': 35.0}
+Dealer 5, Player 10  -> {'HIT': -461.5, 'DOUBLE': 742.5, 'STAND': -288.5}
+Dealer 5, Player 9/19  -> {'HIT': -192.0, 'DOUBLE': 192.5, 'STAND': 447.0}
+Dealer 5, Player 10/20  -> {'STAND': 582.5, 'HIT': -228.0, 'DOUBLE': 204.0}
+Dealer 5, Player 10 (Splittable)  -> {'HIT': -13.0, 'STAND': 2, 'DOUBLE': 38.0, 'SPLIT': 8.0}
+Dealer 5, Player 20  -> {'HIT': -1080.0, 'DOUBLE': -1119.0, 'STAND': 1074.0}
+Dealer 5, Player 12 (Splittable)  -> {'STAND': -20, 'HIT': -75.5, 'DOUBLE': -15.5, 'SPLIT': -27.5}
+Dealer 5, Player 4/14  -> {'HIT': 15.0, 'STAND': -59.5, 'DOUBLE': 84.5}
+Dealer 5, Player 6  -> {'DOUBLE': -49.0, 'HIT': -156.5, 'STAND': -73}
+Dealer 5, Player 8/18  -> {'STAND': 225.0, 'HIT': -113.0, 'DOUBLE': 168.5}
+Dealer 5, Player 16 (Splittable)  -> {'SPLIT': -117.5, 'STAND': -36, 'DOUBLE': -81.5, 'HIT': -131.0}
+Dealer 5, Player 5  -> {'STAND': -65, 'HIT': -93.0, 'DOUBLE': -40.5}
+Dealer 5, Player 6 (Splittable)  -> {'STAND': -24, 'SPLIT': -48.0, 'DOUBLE': -28.5, 'HIT': -50.0}
+Dealer 5, Player 7/17  -> {'DOUBLE': 138.5, 'STAND': 73.5, 'HIT': -78.0}
+Dealer 5, Player 4 (Splittable)  -> {'HIT': -46.0, 'SPLIT': -81.5, 'STAND': -4, 'DOUBLE': -27}
+Dealer 5, Player 5/15  -> {'HIT': -83.5, 'STAND': -68, 'DOUBLE': 88.5}
+Dealer 5, Player 18 (Splittable)  -> {'SPLIT': -57.0, 'STAND': 60.5, 'DOUBLE': -114.0, 'HIT': -172.5}
+Dealer 6, Player 20 (Splittable)  -> {'HIT': -3168.0, 'SPLIT': 967.5, 'DOUBLE': -3272.0, 'STAND': 3340.0}
+Dealer 6, Player 11  -> {'DOUBLE': 1047.5, 'STAND': -348.0, 'HIT': 221.5}
+Dealer 6, Player 6  -> {'STAND': -86.5, 'HIT': -106.0, 'DOUBLE': -40.0}
+Dealer 6, Player 15  -> {'HIT': -3121.0, 'DOUBLE': -1740.5, 'STAND': -487.5}
+Dealer 6, Player 7/17  -> {'HIT': -89.0, 'DOUBLE': 90.0, 'STAND': 67.0}
+Dealer 6, Player 5  -> {'STAND': -119, 'HIT': -119.5, 'DOUBLE': -116.5}
+Dealer 6, Player 13  -> {'DOUBLE': -1060.5, 'STAND': -525.5, 'HIT': -2609.0}
+Dealer 6, Player 14  -> {'HIT': -2446.5, 'STAND': -485.5, 'DOUBLE': -1252.0}
+Dealer 6, Player 17  -> {'HIT': -2996.0, 'STAND': 470.0, 'DOUBLE': -2151.5}
+Dealer 6, Player 19  -> {'DOUBLE': -2771.5, 'STAND': 2374.0, 'HIT': -3089.5}
+Dealer 6, Player 9/19  -> {'STAND': 416.0, 'DOUBLE': 180.0, 'HIT': -123.5}
+Dealer 6, Player 12  -> {'HIT': -2355.5, 'STAND': -465.0, 'DOUBLE': -682.0}
+Dealer 6, Player 20  -> {'HIT': -1089.0, 'STAND': 998.0, 'DOUBLE': -1103.5}
+Dealer 6, Player 18  -> {'STAND': 1257.5, 'DOUBLE': -2234.0, 'HIT': -2882.0}
+Dealer 6, Player 16 (Splittable)  -> {'SPLIT': -172.0, 'DOUBLE': -100.0, 'HIT': -126.5, 'STAND': -37}
+Dealer 6, Player 10  -> {'STAND': -294.0, 'HIT': -313.0, 'DOUBLE': 728.5}
+Dealer 6, Player 16  -> {'DOUBLE': -1396.0, 'HIT': -2321.0, 'STAND': -439.0}
+Dealer 6, Player 5/15  -> {'HIT': -65.0, 'STAND': -74.0, 'DOUBLE': 112.5}
+Dealer 6, Player 3/13  -> {'HIT': 12.0, 'STAND': -117.0, 'DOUBLE': 101.5}
+Dealer 6, Player 6/16  -> {'HIT': -72.5, 'STAND': -72, 'DOUBLE': 116.5}
+Dealer 6, Player 10/20  -> {'DOUBLE': 266.5, 'STAND': 563.5, 'HIT': -260.0}
+Dealer 6, Player 7  -> {'HIT': -253.5, 'STAND': -47, 'DOUBLE': -23.0}
+Dealer 6, Player 10 (Splittable)  -> {'SPLIT': -115.5, 'HIT': -43.5, 'STAND': 16, 'DOUBLE': 56.0}
+Dealer 6, Player 18 (Splittable)  -> {'HIT': -148.0, 'DOUBLE': -140.5, 'STAND': 36.5, 'SPLIT': -43.0}
+Dealer 6, Player 4/14  -> {'HIT': -13.0, 'DOUBLE': 79.0, 'STAND': -30}
+Dealer 6, Player 9  -> {'HIT': -459.5, 'STAND': -49.5, 'DOUBLE': 444.5}
+Dealer 6, Player 6 (Splittable)  -> {'DOUBLE': -32.5, 'STAND': -19.5, 'HIT': -45.5, 'SPLIT': -107.5}
+Dealer 6, Player 8/18  -> {'STAND': 209.5, 'DOUBLE': 174.5, 'HIT': -113.0}
+Dealer 6, Player 8  -> {'DOUBLE': 102.0, 'STAND': -130.0, 'HIT': -266.0}
+Dealer 6, Player 8 (Splittable)  -> {'HIT': -40.0, 'DOUBLE': 14.5, 'STAND': 12, 'SPLIT': -89.5}
+Dealer 6, Player 4 (Splittable)  -> {'HIT': -40.0, 'DOUBLE': -43.5, 'STAND': -34, 'SPLIT': -6.5}
+Dealer 6, Player 2/12 (Splittable)  -> {'HIT': 17.5, 'SPLIT': -16.5, 'DOUBLE': 10.0, 'STAND': -26}
+Dealer 6, Player 12 (Splittable)  -> {'DOUBLE': -25.5, 'HIT': -53.5, 'STAND': -22, 'SPLIT': -59.0}
+Dealer 6, Player 14 (Splittable)  -> {'STAND': -37, 'SPLIT': -100.5, 'HIT': -119.0, 'DOUBLE': -63.5}
+Dealer 7, Player 16  -> {'HIT': -2545.0, 'STAND': -1839.0, 'DOUBLE': -1553.0}
+Dealer 7, Player 18  -> {'HIT': -2820.5, 'DOUBLE': -2239.5, 'STAND': 1851.5}
+Dealer 7, Player 8/18  -> {'DOUBLE': 139.0, 'STAND': 263.5, 'HIT': -132.5}
+Dealer 7, Player 10  -> {'DOUBLE': 449.0, 'HIT': -502.5, 'STAND': -859.0}
+Dealer 7, Player 13  -> {'DOUBLE': -1362.0, 'HIT': -2706.5, 'STAND': -2159.0}
+Dealer 7, Player 14  -> {'HIT': -2924.0, 'DOUBLE': -1436.0, 'STAND': -2077.5}
+Dealer 7, Player 17  -> {'HIT': -2583.0, 'DOUBLE': -1742.5, 'STAND': 574.5}
+Dealer 7, Player 19  -> {'DOUBLE': -2782.0, 'HIT': -3220.0, 'STAND': 2777.5}
+Dealer 7, Player 12  -> {'DOUBLE': -1064.5, 'HIT': -2418.0, 'STAND': -2209.5}
+Dealer 7, Player 20 (Splittable)  -> {'DOUBLE': -3348.5, 'HIT': -3344.5, 'STAND': 3699.5, 'SPLIT': 876.0}
+Dealer 7, Player 15  -> {'STAND': -2058.0, 'DOUBLE': -1598.0, 'HIT': -2727.0}
+Dealer 7, Player 11  -> {'STAND': -1169.5, 'HIT': 88.0, 'DOUBLE': 708.0}
+Dealer 7, Player 4/14  -> {'STAND': -267.5, 'DOUBLE': -3.5, 'HIT': -49.5}
+Dealer 7, Player 9  -> {'STAND': -850.5, 'HIT': -551.5, 'DOUBLE': 239.5}
+Dealer 7, Player 12 (Splittable)  -> {'SPLIT': -120.0, 'STAND': -77, 'HIT': -86.5, 'DOUBLE': -56.5}
+Dealer 7, Player 8  -> {'DOUBLE': -87.0, 'HIT': -440.0, 'STAND': -633}
+Dealer 7, Player 7/17  -> {'STAND': 147.5, 'DOUBLE': 120.0, 'HIT': -133.5}
+Dealer 7, Player 9/19  -> {'DOUBLE': 183.5, 'STAND': 489.0, 'HIT': -201.5}
+Dealer 7, Player 6  -> {'HIT': -217.5, 'STAND': -288.5, 'DOUBLE': -309.5}
+Dealer 7, Player 14 (Splittable)  -> {'SPLIT': -92.0, 'DOUBLE': -36.5, 'STAND': -35, 'HIT': -53.5}
+Dealer 7, Player 20  -> {'STAND': 1054.0, 'DOUBLE': -1186.0, 'HIT': -1146.0}
+Dealer 7, Player 3/13  -> {'DOUBLE': -50.5, 'HIT': -83.5, 'STAND': -276.0}
+Dealer 7, Player 5/15  -> {'DOUBLE': -44.0, 'STAND': -320, 'HIT': -59.5}
+Dealer 7, Player 5  -> {'STAND': -275.5, 'HIT': -172.5, 'DOUBLE': -295}
+Dealer 7, Player 10/20  -> {'STAND': 655.5, 'DOUBLE': 118.5, 'HIT': -308.5}
+Dealer 7, Player 7  -> {'STAND': -559.5, 'DOUBLE': -279.0, 'HIT': -466.0}
+Dealer 7, Player 10 (Splittable)  -> {'SPLIT': -186.5, 'STAND': -95, 'HIT': -66.5, 'DOUBLE': 26.5}
+Dealer 7, Player 6/16  -> {'STAND': -306, 'DOUBLE': -22.5, 'HIT': -163.0}
+Dealer 7, Player 16 (Splittable)  -> {'STAND': -110, 'HIT': -120.5, 'DOUBLE': -63.5, 'SPLIT': -219.0}
+Dealer 7, Player 18 (Splittable)  -> {'STAND': 95.5, 'HIT': -142.0, 'SPLIT': 33.0, 'DOUBLE': -104.5}
+Dealer 7, Player 2/12 (Splittable)  -> {'HIT': -4.5, 'DOUBLE': -36.5, 'STAND': -82, 'SPLIT': -72.5}
+Dealer 7, Player 6 (Splittable)  -> {'STAND': -108, 'DOUBLE': -65.0, 'SPLIT': -142.5, 'HIT': -75.0}
+Dealer 7, Player 8 (Splittable)  -> {'DOUBLE': 5.0, 'STAND': -105, 'HIT': -40.0, 'SPLIT': -234.5}
+Dealer 7, Player 4 (Splittable)  -> {'HIT': -74.0, 'STAND': -76, 'DOUBLE': -94, 'SPLIT': -224.0}
+Dealer 8, Player 15  -> {'DOUBLE': -1830.5, 'HIT': -2812.5, 'STAND': -2204.0}
+Dealer 8, Player 7  -> {'STAND': -664.5, 'HIT': -530.0, 'DOUBLE': -494.5}
+Dealer 8, Player 12  -> {'STAND': -2522.0, 'HIT': -2488.0, 'DOUBLE': -1462.5}
+Dealer 8, Player 20 (Splittable)  -> {'STAND': 3772.0, 'HIT': -3340.0, 'DOUBLE': -3157.5, 'SPLIT': 1183.0}
+Dealer 8, Player 16  -> {'STAND': -2107.0, 'HIT': -2854.0, 'DOUBLE': -1676.5}
+Dealer 8, Player 13  -> {'DOUBLE': -1658.0, 'HIT': -2755.0, 'STAND': -2641.5}
+Dealer 8, Player 11  -> {'DOUBLE': 540.0, 'HIT': -29.5, 'STAND': -1356.0}
+Dealer 8, Player 14  -> {'STAND': -2306.0, 'HIT': -2520.0, 'DOUBLE': -1543.0}
+Dealer 8, Player 17  -> {'STAND': -1257.0, 'DOUBLE': -1913.0, 'HIT': -2924.5}
+Dealer 8, Player 9  -> {'DOUBLE': 66.0, 'STAND': -967.5, 'HIT': -703.5}
+Dealer 8, Player 19  -> {'HIT': -3096.0, 'DOUBLE': -2795.0, 'STAND': 2901.0}
+Dealer 8, Player 5  -> {'HIT': -291.5, 'STAND': -321, 'DOUBLE': -279}
+Dealer 8, Player 10/20  -> {'STAND': 712.0, 'DOUBLE': 152.0, 'HIT': -228.5}
+Dealer 8, Player 18  -> {'HIT': -2411.5, 'STAND': 1219.0, 'DOUBLE': -1665.0}
+Dealer 8, Player 20  -> {'STAND': 1109.0, 'DOUBLE': -1047.0, 'HIT': -1108.0}
+Dealer 8, Player 4/14  -> {'HIT': -133.5, 'STAND': -362, 'DOUBLE': -51.5}
+Dealer 8, Player 2/12 (Splittable)  -> {'HIT': -17.0, 'DOUBLE': -26.5, 'STAND': -71, 'SPLIT': -139.5}
+Dealer 8, Player 5/15  -> {'HIT': -117.0, 'DOUBLE': -103.0, 'STAND': -361.0}
+Dealer 8, Player 9/19  -> {'DOUBLE': 93.5, 'STAND': 445.0, 'HIT': -174.0}
+Dealer 8, Player 10  -> {'DOUBLE': 355.5, 'HIT': -529.0, 'STAND': -1009}
+Dealer 8, Player 6  -> {'DOUBLE': -362.5, 'HIT': -298.5, 'STAND': -362}
+Dealer 8, Player 6 (Splittable)  -> {'STAND': -62, 'DOUBLE': -90.0, 'SPLIT': -227.5, 'HIT': -76.0}
+Dealer 8, Player 16 (Splittable)  -> {'HIT': -46.0, 'SPLIT': -81.5, 'STAND': -43, 'DOUBLE': -41.5}
+Dealer 8, Player 3/13  -> {'HIT': -127.0, 'DOUBLE': -102.5, 'STAND': -350}
+Dealer 8, Player 7/17  -> {'HIT': -251.5, 'STAND': -235.5, 'DOUBLE': -22.5}
+Dealer 8, Player 8/18  -> {'HIT': -218.5, 'STAND': 238.5, 'DOUBLE': 11.0}
+Dealer 8, Player 6/16  -> {'DOUBLE': -123.0, 'HIT': -216.5, 'STAND': -420.0}
+Dealer 8, Player 8 (Splittable)  -> {'SPLIT': -211.0, 'STAND': -100, 'DOUBLE': -32.0, 'HIT': -67.5}
+Dealer 8, Player 8  -> {'HIT': -533.5, 'STAND': -693, 'DOUBLE': -182.0}
+Dealer 8, Player 14 (Splittable)  -> {'HIT': -132.0, 'SPLIT': -281.0, 'DOUBLE': -88.0, 'STAND': -106}
+Dealer 8, Player 18 (Splittable)  -> {'HIT': -129.0, 'STAND': 70.0, 'DOUBLE': -85.0, 'SPLIT': -74.0}
+Dealer 8, Player 4 (Splittable)  -> {'STAND': -71.5, 'SPLIT': -228.0, 'DOUBLE': -93, 'HIT': -56.5}
+Dealer 8, Player 10 (Splittable)  -> {'STAND': -104, 'DOUBLE': 61.0, 'SPLIT': -267.0, 'HIT': -52.0}
+Dealer 8, Player 12 (Splittable)  -> {'HIT': -107.0, 'SPLIT': -219.0, 'DOUBLE': -41.0, 'STAND': -126}
+Dealer 9, Player 8/18  -> {'DOUBLE': -52.0, 'STAND': -57.5, 'HIT': -253.0}
+Dealer 9, Player 7  -> {'DOUBLE': -541.5, 'STAND': -680.5, 'HIT': -538.5}
+Dealer 9, Player 13  -> {'STAND': -2766.0, 'HIT': -2712.5, 'DOUBLE': -1851.5}
+Dealer 9, Player 14  -> {'HIT': -2745.5, 'DOUBLE': -1817.0, 'STAND': -2424.0}
+Dealer 9, Player 20  -> {'HIT': -1074.5, 'DOUBLE': -1080.5, 'STAND': 1147.5}
+Dealer 9, Player 4/14  -> {'DOUBLE': -102.5, 'STAND': -359, 'HIT': -200.0}
+Dealer 9, Player 15  -> {'DOUBLE': -2046.0, 'STAND': -2519.5, 'HIT': -3015.5}
+Dealer 9, Player 8  -> {'STAND': -671.0, 'HIT': -537.0, 'DOUBLE': -396.5}
+Dealer 9, Player 16  -> {'HIT': -2777.5, 'DOUBLE': -1818.5, 'STAND': -2092.5}
+Dealer 9, Player 6  -> {'DOUBLE': -373.0, 'STAND': -309.5, 'HIT': -333.5}
+Dealer 9, Player 18  -> {'STAND': -230.5, 'DOUBLE': -2129.5, 'HIT': -2902.0}
+Dealer 9, Player 10  -> {'DOUBLE': 228.5, 'STAND': -1185.0, 'HIT': -667.0}
+Dealer 9, Player 12 (Splittable)  -> {'STAND': -108, 'HIT': -99.0, 'DOUBLE': -66.5, 'SPLIT': -191.0}
+Dealer 9, Player 12  -> {'HIT': -2747.5, 'DOUBLE': -1613.0, 'STAND': -2582.5}
+Dealer 9, Player 20 (Splittable)  -> {'HIT': -3262.5, 'SPLIT': 1118.5, 'STAND': 3705.0, 'DOUBLE': -3168.5}
+Dealer 9, Player 9  -> {'HIT': -787.5, 'DOUBLE': -135.0, 'STAND': -1072.0}
+Dealer 9, Player 11  -> {'DOUBLE': 438.5, 'STAND': -1442.0, 'HIT': -160.5}
+Dealer 9, Player 6/16  -> {'HIT': -235.5, 'DOUBLE': -101.0, 'STAND': -428}
+Dealer 9, Player 16 (Splittable)  -> {'DOUBLE': -90.5, 'SPLIT': -262.5, 'HIT': -124.5, 'STAND': -100}
+Dealer 9, Player 9/19  -> {'DOUBLE': 73.0, 'HIT': -304.5, 'STAND': 407.5}
+Dealer 9, Player 17  -> {'DOUBLE': -2022.5, 'STAND': -1219.5, 'HIT': -2995.5}
+Dealer 9, Player 19  -> {'STAND': 1894.5, 'HIT': -2678.0, 'DOUBLE': -2296.0}
+Dealer 9, Player 5/15  -> {'STAND': -304, 'HIT': -137.5, 'DOUBLE': -87.5}
+Dealer 9, Player 10/20  -> {'STAND': 576.5, 'HIT': -279.5, 'DOUBLE': 53.5}
+Dealer 9, Player 4 (Splittable)  -> {'HIT': -44.5, 'DOUBLE': -103, 'STAND': -98, 'SPLIT': -180.0}
+Dealer 9, Player 6 (Splittable)  -> {'DOUBLE': -135.0, 'SPLIT': -229.5, 'STAND': -86, 'HIT': -86.5}
+Dealer 9, Player 8 (Splittable)  -> {'STAND': -77, 'HIT': -63.0, 'SPLIT': -176.0, 'DOUBLE': -60.5}
+Dealer 9, Player 5  -> {'DOUBLE': -392.5, 'HIT': -279.5, 'STAND': -369}
+Dealer 9, Player 7/17  -> {'HIT': -266.5, 'DOUBLE': -129.5, 'STAND': -275.0}
+Dealer 9, Player 2/12 (Splittable)  -> {'DOUBLE': -45.5, 'SPLIT': -154.0, 'STAND': -91, 'HIT': -30.5}
+Dealer 9, Player 3/13  -> {'DOUBLE': -96.5, 'STAND': -325.0, 'HIT': -113.0}
+Dealer 9, Player 14 (Splittable)  -> {'HIT': -146.0, 'STAND': -115, 'SPLIT': -243.0, 'DOUBLE': -127.0}
+Dealer 9, Player 10 (Splittable)  -> {'HIT': -49.5, 'SPLIT': -252.0, 'DOUBLE': 28.0, 'STAND': -96}
+Dealer 9, Player 18 (Splittable)  -> {'HIT': -60.5, 'DOUBLE': -59.5, 'SPLIT': -74.0, 'STAND': -0.5}
+Dealer 10, Player 9/19  -> {'STAND': 85.0, 'HIT': -1219.0, 'DOUBLE': -584.5}
+Dealer 10, Player 10  -> {'HIT': -3436.5, 'DOUBLE': -350.5, 'STAND': -5231.5}
+Dealer 10, Player 8  -> {'HIT': -3001.0, 'DOUBLE': -2280.5, 'STAND': -3259.5}
+Dealer 10, Player 12  -> {'HIT': -11893.5, 'STAND': -12372.5, 'DOUBLE': -8516.0}
+Dealer 10, Player 13  -> {'DOUBLE': -9446.5, 'STAND': -12571.5, 'HIT': -12889.0}
+Dealer 10, Player 17  -> {'HIT': -12963.5, 'STAND': -7344.0, 'DOUBLE': -10510.5}
+Dealer 10, Player 7  -> {'STAND': -3338.5, 'HIT': -2827.5, 'DOUBLE': -2789.0}
+Dealer 10, Player 15  -> {'STAND': -11497.0, 'DOUBLE': -10284.0, 'HIT': -13139.0}
+Dealer 10, Player 8/18  -> {'DOUBLE': -589.5, 'STAND': -692.0, 'HIT': -1174.5}
+Dealer 10, Player 16  -> {'DOUBLE': -9201.0, 'HIT': -11683.5, 'STAND': -10008.5}
+Dealer 10, Player 10 (Splittable)  -> {'STAND': -451.5, 'HIT': -283.5, 'DOUBLE': -6.0, 'SPLIT': -1205.5}
+Dealer 10, Player 14  -> {'HIT': -12089.5, 'STAND': -11111.0, 'DOUBLE': -8947.0}
+Dealer 10, Player 11  -> {'DOUBLE': 301.5, 'STAND': -6775.5, 'HIT': -1427.5}
+Dealer 10, Player 9  -> {'HIT': -4064.0, 'DOUBLE': -2150.5, 'STAND': -5060.0}
+Dealer 10, Player 20 (Splittable)  -> {'SPLIT': -3459.0, 'DOUBLE': -12161.5, 'STAND': 9182.5, 'HIT': -11807.5}
+Dealer 10, Player 19  -> {'HIT': -12967.5, 'STAND': 911.5, 'DOUBLE': -11558.5}
+Dealer 10, Player 20  -> {'STAND': 3340.0, 'HIT': -4648.0, 'DOUBLE': -4828.5}
+Dealer 10, Player 5/15  -> {'STAND': -1584.0, 'HIT': -945.5, 'DOUBLE': -854.5}
+Dealer 10, Player 6  -> {'HIT': -1438.5, 'DOUBLE': -1530.0, 'STAND': -1703.5}
+Dealer 10, Player 4 (Splittable)  -> {'DOUBLE': -423, 'STAND': -425.0, 'HIT': -311.0, 'SPLIT': -1134.5}
+Dealer 10, Player 6 (Splittable)  -> {'HIT': -414.0, 'STAND': -402.5, 'DOUBLE': -493.5, 'SPLIT': -1152.5}
+Dealer 10, Player 18  -> {'HIT': -11903.0, 'DOUBLE': -9695.0, 'STAND': -3182.0}
+Dealer 10, Player 2/12 (Splittable)  -> {'SPLIT': -735.5, 'STAND': -397, 'HIT': -152.0, 'DOUBLE': -218.5}
+Dealer 10, Player 6/16  -> {'DOUBLE': -890.0, 'STAND': -1766.0, 'HIT': -1092.5}
+Dealer 10, Player 8 (Splittable)  -> {'DOUBLE': -347.0, 'STAND': -411, 'HIT': -355.0, 'SPLIT': -1006.0}
+Dealer 10, Player 16 (Splittable)  -> {'HIT': -513.0, 'SPLIT': -1125.0, 'STAND': -436.5, 'DOUBLE': -428.0}
+Dealer 10, Player 3/13  -> {'DOUBLE': -743.5, 'HIT': -727.5, 'STAND': -1639.0}
+Dealer 10, Player 14 (Splittable)  -> {'STAND': -415, 'SPLIT': -1210.0, 'DOUBLE': -345.0, 'HIT': -533.5}
+Dealer 10, Player 7/17  -> {'STAND': -1299.0, 'HIT': -1098.5, 'DOUBLE': -792.0}
+Dealer 10, Player 10/20  -> {'DOUBLE': -120.5, 'STAND': 2059.0, 'HIT': -1444.0}
+Dealer 10, Player 5  -> {'HIT': -1329.5, 'STAND': -1628, 'DOUBLE': -1675.5}
+Dealer 10, Player 18 (Splittable)  -> {'STAND': -115.0, 'SPLIT': -836.0, 'HIT': -599.0, 'DOUBLE': -443.0}
+Dealer 10, Player 4/14  -> {'HIT': -753.0, 'STAND': -1579.0, 'DOUBLE': -838.5}
+Dealer 10, Player 12 (Splittable)  -> {'SPLIT': -1178.0, 'STAND': -504.5, 'HIT': -429.5, 'DOUBLE': -348.0}

@@ -1,0 +1,20 @@
+
+========================
+  Smart Player Results  
+========================
+      Wins: 3
+    Losses: 4
+    Pushes: 1
+Blackjacks: 2
+  Win rate: 50.00%
+
+
+=======================
+  Dumb Player Results  
+=======================
+      Wins: 3
+    Losses: 9
+    Pushes: 0
+Blackjacks: 0
+  Win rate: 25.00%
+

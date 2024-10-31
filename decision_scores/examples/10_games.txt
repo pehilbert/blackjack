@@ -1,0 +1,12 @@
+Final scores from 10 games:
+
+Dealer 4, Player 20 (Splittable)  -> {'DOUBLE': -1}
+Dealer 5, Player 4/14  -> {'STAND': 1}
+Dealer 6, Player 13  -> {'STAND': 1}
+Dealer 7, Player 10  -> {'STAND': -1}
+Dealer 7, Player 20 (Splittable)  -> {'HIT': -1}
+Dealer 8, Player 3/13  -> {'STAND': -1}
+Dealer 9, Player 14  -> {'DOUBLE': -1}
+Dealer 10, Player 20 (Splittable)  -> {'SPLIT': -3, 'HIT': -3}
+Dealer 10, Player 12  -> {'STAND': -3}
+Dealer 10, Player 13  -> {'STAND': 1, 'DOUBLE': -1}

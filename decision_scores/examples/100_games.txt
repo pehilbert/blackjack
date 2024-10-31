@@ -1,0 +1,85 @@
+Final scores from 100 games:
+
+Dealer 1, Player 9/19  -> {'DOUBLE': -1}
+Dealer 1, Player 17  -> {'HIT': -1, 'DOUBLE': 1}
+Dealer 1, Player 20 (Splittable)  -> {'SPLIT': 1}
+Dealer 1, Player 18  -> {'STAND': 1}
+Dealer 1, Player 12  -> {'DOUBLE': -1}
+Dealer 1, Player 10 (Splittable)  -> {'HIT': -1}
+Dealer 1, Player 20  -> {'HIT': -1}
+Dealer 1, Player 15  -> {'HIT': -1}
+Dealer 1, Player 16 (Splittable)  -> {'DOUBLE': -1}
+Dealer 2, Player 9  -> {'DOUBLE': -1, 'STAND': -1}
+Dealer 2, Player 17  -> {'STAND': -1, 'HIT': -1}
+Dealer 2, Player 19  -> {'HIT': -1}
+Dealer 2, Player 20 (Splittable)  -> {'HIT': -1, 'SPLIT': -1, 'DOUBLE': -1}
+Dealer 2, Player 12  -> {'HIT': -1}
+Dealer 3, Player 18  -> {'STAND': -1, 'HIT': -1}
+Dealer 3, Player 15  -> {'HIT': -2}
+Dealer 3, Player 13  -> {'DOUBLE': 1}
+Dealer 3, Player 19  -> {'HIT': -1, 'DOUBLE': -1}
+Dealer 3, Player 10/20  -> {'DOUBLE': 1}
+Dealer 3, Player 20 (Splittable)  -> {'DOUBLE': -1}
+Dealer 3, Player 14  -> {'STAND': -1}
+Dealer 4, Player 20 (Splittable)  -> {'DOUBLE': -1}
+Dealer 4, Player 10  -> {'HIT': -1}
+Dealer 4, Player 20  -> {'DOUBLE': -1}
+Dealer 4, Player 16  -> {'STAND': -1}
+Dealer 4, Player 17  -> {'DOUBLE': -1}
+Dealer 4, Player 13  -> {'STAND': -1}
+Dealer 5, Player 8  -> {'DOUBLE': -1}
+Dealer 5, Player 13  -> {'STAND': 1, 'HIT': -1.5}
+Dealer 5, Player 18  -> {'DOUBLE': -1, 'STAND': 1}
+Dealer 5, Player 20 (Splittable)  -> {'SPLIT': -1.5, 'HIT': -1}
+Dealer 5, Player 15  -> {'STAND': -1.5}
+Dealer 5, Player 12  -> {'HIT': 1}
+Dealer 5, Player 4/14  -> {'HIT': -1}
+Dealer 5, Player 14  -> {'DOUBLE': -1}
+Dealer 5, Player 16  -> {'STAND': -1, 'DOUBLE': -1}
+Dealer 5, Player 10  -> {'HIT': 1}
+Dealer 5, Player 20  -> {'HIT': 1}
+Dealer 5, Player 17  -> {'STAND': -1, 'DOUBLE': 1}
+Dealer 6, Player 20 (Splittable)  -> {'HIT': -1}
+Dealer 6, Player 10  -> {'STAND': -4}
+Dealer 6, Player 13  -> {'STAND': -1}
+Dealer 6, Player 14 (Splittable)  -> {'SPLIT': -3}
+Dealer 6, Player 17  -> {'DOUBLE': -3}
+Dealer 6, Player 8/18  -> {'HIT': -1}
+Dealer 6, Player 12  -> {'DOUBLE': -1}
+Dealer 6, Player 18  -> {'DOUBLE': -1}
+Dealer 6, Player 4/14  -> {'STAND': -1}
+Dealer 7, Player 12  -> {'DOUBLE': 1}
+Dealer 7, Player 15  -> {'DOUBLE': -1}
+Dealer 7, Player 17  -> {'DOUBLE': -1}
+Dealer 7, Player 11  -> {'STAND': -1, 'DOUBLE': -1}
+Dealer 7, Player 7  -> {'DOUBLE': -1}
+Dealer 7, Player 14  -> {'HIT': 1}
+Dealer 7, Player 19  -> {'STAND': 1}
+Dealer 8, Player 16  -> {'DOUBLE': -2}
+Dealer 8, Player 3/13  -> {'DOUBLE': -1}
+Dealer 8, Player 19  -> {'HIT': -1}
+Dealer 9, Player 20 (Splittable)  -> {'SPLIT': 6, 'STAND': 3, 'HIT': -1}
+Dealer 9, Player 15  -> {'DOUBLE': 6, 'STAND': 1}
+Dealer 9, Player 6  -> {'DOUBLE': -1}
+Dealer 9, Player 11  -> {'STAND': -3}
+Dealer 9, Player 19  -> {'DOUBLE': -1}
+Dealer 9, Player 7  -> {'STAND': -1}
+Dealer 9, Player 10  -> {'HIT': -1}
+Dealer 9, Player 12  -> {'HIT': -1}
+Dealer 9, Player 13  -> {'STAND': -1, 'DOUBLE': -1}
+Dealer 10, Player 17  -> {'DOUBLE': -1, 'STAND': -1}
+Dealer 10, Player 18  -> {'HIT': -2, 'STAND': 0.5}
+Dealer 10, Player 20 (Splittable)  -> {'DOUBLE': -3, 'STAND': 1, 'SPLIT': -1}
+Dealer 10, Player 14  -> {'HIT': 0.5, 'DOUBLE': -1}
+Dealer 10, Player 7  -> {'DOUBLE': -1}
+Dealer 10, Player 10  -> {'STAND': 1, 'DOUBLE': 1}
+Dealer 10, Player 6  -> {'STAND': -1, 'HIT': -1}
+Dealer 10, Player 16  -> {'DOUBLE': -1, 'HIT': -1}
+Dealer 10, Player 12  -> {'STAND': -3, 'DOUBLE': 1}
+Dealer 10, Player 8/18  -> {'STAND': 0}
+Dealer 10, Player 8  -> {'DOUBLE': 1}
+Dealer 10, Player 7/17  -> {'STAND': -1}
+Dealer 10, Player 4/14  -> {'HIT': -1}
+Dealer 10, Player 13  -> {'STAND': -1}
+Dealer 10, Player 11  -> {'STAND': -1}
+Dealer 10, Player 19  -> {'STAND': 0.5}

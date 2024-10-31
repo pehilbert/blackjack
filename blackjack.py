@@ -2,11 +2,20 @@ from cards import *
 from hands import *
 
 DIVIDER_SIZE = 30
+WIN = "Win"
+LOSE = "Lose"
+PUSH = "Push"
+BLACKJACK = "Blackjack"
 
 class BlackjackGame:
-    def __init__(self, initial_chips, verbose=False):
+    def __init__(self, bj_player, initial_chips, verbose=False):
+        self.bj_player = bj_player
         self.verbose = verbose
         self.chips = initial_chips
+        self.wins = 0
+        self.losses = 0
+        self.pushes = 0
+        self.blackjacks = 0
 
     def play(self, bet):
         if self.chips - bet < 0:
@@ -25,14 +34,12 @@ class BlackjackGame:
             self.player_hands[0].deal_card()
             self.dealer.deal_card()
 
-        self.player_hands[0].playing = True
-
         print()
         print("-" * DIVIDER_SIZE)
 
         ## Player Turn ##
         print()
-        self.player_hands[0].play_player()
+        self.bj_player.play(self, self.player_hands[0])
 
         ## Dealer Turn ##
         print()
@@ -41,11 +48,13 @@ class BlackjackGame:
         ## Game results ##
         dealer_total = self.dealer.get_total().get_value()
         winnings = 0
+        results = []
 
         for i in range(len(self.player_hands)):
             hand = self.player_hands[i]
             player_total = hand.get_total().get_value()
             win_amount = 0
+            result = "Error"
 
             print()
 
@@ -54,34 +63,35 @@ class BlackjackGame:
 
             # check for blackjack
             if (hand.is_blackjack() and player_total != dealer_total):
-                print("Blackjack, ", end="")
+                result = BLACKJACK
                 win_amount = int(hand.bet * 1.5)
 
             # didn't bust and player had higher total -> win
             elif (self.dealer.busted() and not hand.busted()) or (not hand.busted() and player_total > dealer_total):
-                print("Win, ", end="")
+                result = WIN
                 win_amount = hand.bet
 
             # player total == dealer total and didn't bust -> push
             elif not hand.busted() and player_total == dealer_total:
-                print("Push, ", end="")
+                result = PUSH
 
             # busted or dealer had higher -> lose
             elif hand.busted() or dealer_total > player_total:
-                print("Lose, ", end="")
+                result = LOSE
                 win_amount = -hand.bet
 
-            else:
-                print("Something went wrong, ", end="")
+            print(result + ", ", end = "")
 
             if win_amount >= 0:
                 print("+" + str(win_amount))
             else:
                 print(str(win_amount))
-
+            
+            results.append(result)
             winnings += win_amount
 
         print()
         print("-" * DIVIDER_SIZE)
 
         self.chips += winnings
+        return results

@@ -71,55 +71,6 @@ class PlayerHand(Hand):
         super().__init__(game, "Player", verbose)
         self.bet = initial_bet
 
-    def play_player(self, split_num=0):
-        self.playing = not self.is_blackjack()
-
-        if split_num > 0:
-            print(f"Split hand #{split_num}:")
-
-        print(f"Chips: {self.game.chips}")
-        print(f"  Bet: {self.bet}")
-        print()
-        print(self.game.dealer)
-        print(self)
-
-        while self.playing:
-            choices = ["STAND", "HIT", "DOUBLE"]
-
-            if self.can_split():
-                choices.append("SPLIT")
-                
-            prompt = "What to do? (" + ", ".join(choices) + ") "
-
-            print()
-            next_action = input(prompt).strip()
-            
-            if next_action.upper() == "STAND":
-                self.stand()
-            elif next_action.upper() == "HIT":
-                self.hit()
-            elif next_action.upper() == "DOUBLE":
-                if self.game.chips >= self.bet * 2:
-                    self.double_down()
-                else:
-                    print("You do not have enough chips to double down")
-
-            elif next_action.upper() == "SPLIT":
-                if self.can_split():
-                    new_hands = self.split()
-
-                    for hand_num, hand in enumerate(new_hands):
-                        self.game.player_hands.append(hand)
-
-                        print()
-                        hand.play_player(split_num=hand_num + 1)
-
-                    self.game.player_hands.remove(self)
-                else:
-                    print("You cannot split this hand")
-            else:
-                print("Invalid command, try again")
-
     def double_down(self):
         if self.playing:
             if self.verbose:
